@@ -1,0 +1,5 @@
+{
+  "name": "UAV Mine Detection Simulator",
+  "description": "A military-grade dashboard simulation for UAV landmine detection using Gemini 2.5 for threat assessment and EOD voice protocols.",
+  "requestFramePermissions": []
+}
